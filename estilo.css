@@ -1,0 +1,13 @@
+﻿form {padding: 20px;}
+
+label {margin: 15px 0px; clear: both; display: block;}
+
+input {padding: 4px; border: solid 1px #262626;}
+
+::placeholder, option, value {color: #fff; font-weight: bold;}
+
+*:focus {border-color: #31a3dd; }
+
+input[type="submit"] {padding: 10px 20px; text-transform: uppercase; cursor: pointer; background-color: #31a3dd; border: solid 1px #ededed;}
+
+input[type="submit"]:hover {background-color: #82C8EA;}
